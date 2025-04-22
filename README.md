@@ -3,24 +3,26 @@
 ## 👋 About Me
 Project Manager with 4+ years of experience leading cross-functional teams to deliver technology solutions. Leveraging my background in Mathematical Finance and Statistics to bring data-driven decision making to business challenges.
 
-Currently developing a **Transport Data Analytics project** that demonstrates statistical analysis techniques and data visualization capabilities.
+Currently working on a couple of projects:
+1. Building a **Transport Data Analytics project** incrementally to apply statistical analysis and data visualization techniques as I progress through the Google Advanced Data Analytics course.
+2. A couple of side projects using Flask Applications to create WhatsApp chatbots of various purposes. An exercise in vibe coding, learning to use LLMs (Claude Sonnet 3.7) to build and deploy applications.
 
 ## 💼 Professional Experience
 - **Business Consultant** at Cabinet Pte Ltd (2024)
   - Reduced operational error rates by 35% through data analysis and process improvement
   
 - **IT Project Manager** at Asgardian Labs Pte Ltd (2021-2023)
-  - Led Agile teams delivering applications and websites
-  - Managed requirements gathering and client relationships
+  - Led multiple remote Agile teams to deliver over 30 projects in app and web development
+  - Was the central point of contact for all project stakeholders, effectively communicating at the right level of technical expertise.
   
 - **Business Development Manager** at TwinRock Pte Ltd (2020-2021)
-  - Developed sales pipeline with 3,000+ leads and generated significant revenue
+  - Developed sales pipeline with 3,000+ leads using web scrapers. Tendered for projects generating 1M+ in revenue.
 
 ## 📊 Data & Analytics Skills
 - **Data Analysis**: Python, R for statistical analysis and modeling
-- **Data Visualization**: Power BI (Certified Data Analyst Associate)
+- **Enterprise Data Ingestion, ETL and Reporting**: Power BI (Microsoft Certified Data Analyst Associate)
 - **Database Management**: PostgreSQL, IBM DB2
-- **Project Management**: JIRA, Monday for analytics project planning
+- **Project Management**: JIRA, Monday.com, ClickUp
 
 ## 🚀 Featured Projects
 
@@ -34,7 +36,7 @@ Comprehensive analysis of transport infrastructure data from OECD countries exam
 _Technologies: Python, Pandas, Matplotlib, Scikit-learn_
 
 ### [Project Euler Solutions](https://github.com/ayeachuri/project-euler)
-Mathematical programming solutions demonstrating algorithmic problem-solving skills.
+- Some exercises from my days at UWaterloo in mathematical problem solving with python.
 
 ## 🎓 Education & Certifications
 - **Bachelor of Mathematics**, Mathematical Finance - University of Waterloo
