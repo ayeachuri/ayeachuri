@@ -27,13 +27,14 @@ Currently working on a couple of projects:
 ## 🚀 Featured Projects
 
 ### [Transport Infrastructure Analytics](https://github.com/ayeachuri/transport-analytics)
-Comprehensive analysis of transport infrastructure data from OECD countries examining:
-- Investment impact on congestion reduction
+Exploratory analysis of transport infrastructure data from OECD Database of Economic and Transport Performance indicators
 - Comparative analysis of transport modes
 - Economic returns of public transit
 - Environmental impact assessment
+Interactive dashboard analyzing transport investment impacts across 43 countries with environmental and economic metrics.
+[![View Dashboard](https://img.shields.io/badge/Streamlit-View_Dashboard-FF4B4B?style=for-the-badge&logo=Streamlit)](https://your-username-transport-investment-analytics.streamlit.app/)
 
-_Technologies: Python, Pandas, Matplotlib, Scikit-learn_
+_Technologies: Python, Streamlit, Pandas, Matplotlib, Scikit-learn
 
 ### [Project Euler Solutions](https://github.com/ayeachuri/project-euler)
 - Some exercises from my days at UWaterloo in mathematical problem solving with python.
