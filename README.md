@@ -32,7 +32,7 @@ Exploratory analysis of transport infrastructure data from OECD Database of Econ
 - Economic returns of public transit
 - Environmental impact assessment
 Interactive dashboard analyzing transport investment impacts across 43 countries with environmental and economic metrics.
-[![View Dashboard](https://img.shields.io/badge/Streamlit-View_Dashboard-FF4B4B?style=for-the-badge&logo=Streamlit)](https://your-username-transport-investment-analytics.streamlit.app/)
+[![View Dashboard](https://img.shields.io/badge/Streamlit-View_Dashboard-FF4B4B?style=for-the-badge&logo=Streamlit)](https://transportinvestmentanalytics.streamlit.app/)
 
 _Technologies: Python, Streamlit, Pandas, Matplotlib, Scikit-learn
 
